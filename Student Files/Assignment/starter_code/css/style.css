@@ -49,7 +49,7 @@ body {
      color: #000;
      font-size: 12px;
      line-height: 1.4;
-     font-family: Helvetica, Arial, sans-serif;
+     font-family: 'Open Sans', sans-serif;
      background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
       background-size: cover;
 }
@@ -80,16 +80,25 @@ footer {
 /*******************************************/
 
 h1.logo{
-  font-family: Open Sans;
+  font-family: 'Open Sans', sans-serif;
   font-size: 24px;
   font-weight:900;
   color: white;
 }
 
 h2{
-  font-family: Open Sans;
+  font-family: 'Open Sans', sans-serif;
   font-size: 24px;
   font-weight:600;
   color: white;
   text-align: center;
+}
+
+.section{
+  background-color: white;
+  padding: 50px;
+}
+
+.secondary{
+  background-color: #f9e42e;
 }
