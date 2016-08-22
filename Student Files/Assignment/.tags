@@ -1,0 +1,319 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+FEWD Week	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/README.md	/^#FEWD Week #2: Styling with CSS$/;"	function	line:1
+Description	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/README.md	/^###Description$/;"	function	line:9
+Real-World Applications	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/README.md	/^###Real-World Applications$/;"	function	line:24
+Technical Requirements	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/README.md	/^###Technical Requirements$/;"	function	line:40
+Resources	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/README.md	/^###Resources$/;"	function	line:54
+Evaluation / Submission	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/README.md	/^###Evaluation \/ Submission$/;"	function	line:71
+FEWD Week	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/rubric.md	/^#FEWD Week #2 Project: Styling with CSS$/;"	function	line:1
+Description	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/rubric.md	/^###Description$/;"	function	line:6
+article	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^article,$/;"	function	line:11
+aside	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^aside,$/;"	function	line:12
+details	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^details,$/;"	function	line:13
+figcaption	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^figcaption,$/;"	function	line:14
+figure	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^figure,$/;"	function	line:15
+footer	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^footer,$/;"	function	line:16
+header	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^header,$/;"	function	line:17
+hgroup	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^hgroup,$/;"	function	line:18
+nav	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^nav,$/;"	function	line:19
+section	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^section,$/;"	function	line:20
+summary	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^summary {$/;"	function	line:21
+audio	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^audio,$/;"	function	line:29
+canvas	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^canvas,$/;"	function	line:30
+video	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^video {$/;"	function	line:31
+audio:not([controls])	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^audio:not([controls]) {$/;"	function	line:42
+[hidden]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^[hidden] {$/;"	function	line:52
+html	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^html {$/;"	function	line:67
+html	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^html,$/;"	function	line:78
+button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^button,$/;"	function	line:79
+input	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input,$/;"	function	line:80
+select	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^select,$/;"	function	line:81
+textarea	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^textarea {$/;"	function	line:82
+body	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^body {$/;"	function	line:90
+a:focus	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^a:focus {$/;"	function	line:102
+a:active	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^a:active,$/;"	function	line:111
+a:hover	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^a:hover {$/;"	function	line:112
+h1	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^h1 {$/;"	function	line:125
+h2	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^h2 {$/;"	function	line:130
+h3	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^h3 {$/;"	function	line:135
+h4	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^h4 {$/;"	function	line:140
+h5	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^h5 {$/;"	function	line:145
+h6	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^h6 {$/;"	function	line:150
+abbr[title]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^abbr[title] {$/;"	function	line:159
+b	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^b,$/;"	function	line:167
+strong	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^strong {$/;"	function	line:168
+blockquote	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^blockquote {$/;"	function	line:172
+dfn	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^dfn {$/;"	function	line:180
+mark	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^mark {$/;"	function	line:188
+p	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^p,$/;"	function	line:197
+pre	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^pre {$/;"	function	line:198
+code	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^code,$/;"	function	line:207
+kbd	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^kbd,$/;"	function	line:208
+pre	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^pre,$/;"	function	line:209
+samp	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^samp {$/;"	function	line:210
+pre	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^pre {$/;"	function	line:220
+q	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^q {$/;"	function	line:230
+q:before	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^q:before,$/;"	function	line:238
+q:after	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^q:after {$/;"	function	line:239
+small	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^small {$/;"	function	line:244
+sub	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^sub,$/;"	function	line:253
+sup	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^sup {$/;"	function	line:254
+sup	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^sup {$/;"	function	line:261
+sub	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^sub {$/;"	function	line:265
+dl	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^dl,$/;"	function	line:277
+menu	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^menu,$/;"	function	line:278
+ol	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^ol,$/;"	function	line:279
+ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^ul {$/;"	function	line:280
+dd	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^dd {$/;"	function	line:284
+menu	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^menu,$/;"	function	line:292
+ol	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^ol,$/;"	function	line:293
+ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^ul {$/;"	function	line:294
+nav ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^nav ul,$/;"	function	line:302
+nav ol	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^nav ol {$/;"	function	line:303
+img	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^img {$/;"	function	line:318
+svg:not(:root)	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^svg:not(:root) {$/;"	function	line:327
+figure	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^figure {$/;"	function	line:339
+form	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^form {$/;"	function	line:351
+fieldset	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^fieldset {$/;"	function	line:359
+legend	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^legend {$/;"	function	line:371
+button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^button,$/;"	function	line:384
+input	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input,$/;"	function	line:385
+select	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^select,$/;"	function	line:386
+textarea	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^textarea {$/;"	function	line:387
+button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^button,$/;"	function	line:399
+input	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input {$/;"	function	line:400
+button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^button,$/;"	function	line:414
+input[type="reset"]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input[type="reset"],$/;"	function	line:416
+input[type="submit"]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input[type="submit"] {$/;"	function	line:417
+button[disabled]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^button[disabled],$/;"	function	line:427
+input[disabled]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input[disabled] {$/;"	function	line:428
+input[type="checkbox"]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input[type="checkbox"],$/;"	function	line:439
+input[type="radio"]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input[type="radio"] {$/;"	function	line:440
+input[type="search"]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input[type="search"] {$/;"	function	line:453
+input[type="search"]::-webkit-search-cancel-button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input[type="search"]::-webkit-search-cancel-button,$/;"	function	line:464
+input[type="search"]::-webkit-search-decoration	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input[type="search"]::-webkit-search-decoration {$/;"	function	line:465
+button::-moz-focus-inner	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^button::-moz-focus-inner,$/;"	function	line:473
+input::-moz-focus-inner	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^input::-moz-focus-inner {$/;"	function	line:474
+textarea	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^textarea {$/;"	function	line:484
+table	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/normalize.css	/^table {$/;"	function	line:497
+html, body, div, span, applet, object, iframe	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^html, body, div, span, applet, object, iframe,$/;"	function	line:6
+h1, h2, h3, h4, h5, h6, p, blockquote, pre	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	function	line:7
+a, abbr, acronym, address, big, cite, code	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^a, abbr, acronym, address, big, cite, code,$/;"	function	line:8
+del, dfn, em, img, ins, kbd, q, s, samp	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	function	line:9
+small, strike, strong, sub, sup, tt, var	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^small, strike, strong, sub, sup, tt, var,$/;"	function	line:10
+b, u, i, center	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^b, u, i, center,$/;"	function	line:11
+dl, dt, dd, ol, ul, li	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^dl, dt, dd, ol, ul, li,$/;"	function	line:12
+fieldset, form, label, legend	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^fieldset, form, label, legend,$/;"	function	line:13
+table, caption, tbody, tfoot, thead, tr, th, td	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	function	line:14
+article, aside, canvas, details, embed	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^article, aside, canvas, details, embed, $/;"	function	line:15
+figure, figcaption, footer, header, hgroup	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^figure, figcaption, footer, header, hgroup, $/;"	function	line:16
+menu, nav, output, ruby, section, summary	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^menu, nav, output, ruby, section, summary,$/;"	function	line:17
+time, mark, audio, video	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^time, mark, audio, video {$/;"	function	line:18
+article, aside, details, figcaption, figure	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^article, aside, details, figcaption, figure, $/;"	function	line:27
+footer, header, hgroup, menu, nav, section	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^footer, header, hgroup, menu, nav, section {$/;"	function	line:28
+body	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^body {$/;"	function	line:31
+ol, ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^ol, ul {$/;"	function	line:34
+blockquote, q	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^blockquote, q {$/;"	function	line:37
+blockquote:before, blockquote:after	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^blockquote:before, blockquote:after,$/;"	function	line:40
+q:before, q:after	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^q:before, q:after {$/;"	function	line:41
+table	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/reset.css	/^table {$/;"	function	line:45
+*	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^* {$/;"	function	line:14
+.clearfix:after	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^.clearfix:after {$/;"	function	line:21
+.clear	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^.clear {$/;"	function	line:30
+.alignright	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^.alignright {$/;"	function	line:34
+.alignleft	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^.alignleft {$/;"	function	line:39
+body	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^body {$/;"	function	line:48
+a	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^a {$/;"	function	line:56
+.container	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^.container {$/;"	function	line:66
+.logo	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^.logo {$/;"	function	line:71
+header	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^header {$/;"	function	line:76
+header .logo	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^header .logo {$/;"	function	line:82
+header h2	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^header h2 {$/;"	function	line:85
+.button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^.button {$/;"	function	line:92
+.yellow	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^.yellow {$/;"	function	line:102
+.blue	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^.blue {$/;"	function	line:106
+#benefits	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^#benefits {$/;"	function	line:111
+h3	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^h3 {$/;"	function	line:114
+#benefits p, #benefits ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^#benefits p, #benefits ul {$/;"	function	line:120
+#benefits ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^#benefits ul {$/;"	function	line:123
+#testimonial	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^#testimonial {$/;"	function	line:127
+blockquote	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^blockquote {$/;"	function	line:132
+blockquote span	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^blockquote span {$/;"	function	line:140
+aside	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^aside {$/;"	function	line:145
+footer	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^footer {$/;"	function	line:150
+footer .logo	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^footer .logo {$/;"	function	line:155
+footer ul li	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^footer ul li {$/;"	function	line:159
+footer p	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/css/style.css	/^footer p {$/;"	function	line:164
+html	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^	<head>$/;"	function	line:3
+meta	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^    	<meta charset="utf-8">$/;"	function	line:4
+meta	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^    	<meta name="description" content="The perfect personal assistant. Relaxr does your job for you so you can enjoy life as it is meant to be.">$/;"	function	line:5
+title	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^		<title>Relaxr Landing Page<\/title>$/;"	function	line:7
+link	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^		<link href='http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300italic,300,600,800' rel='stylesheet' type='text\/css'>$/;"	function	line:8
+link	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^		<link rel="stylesheet" href="css\/reset.css">$/;"	function	line:11
+link	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^		<link rel="stylesheet" href="css\/style.css">$/;"	function	line:12
+body	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^	<body>$/;"	function	line:15
+header	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^		<header>$/;"	function	line:16
+div	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^			<div class="container">$/;"	function	line:17
+h	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^				<h1 class="logo">Relaxr<\/h1>$/;"	function	line:18
+h	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^				<h2>Get piece of mind with a single tap<\/h2>$/;"	function	line:19
+a	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^				<a class="button yellow" href="#">Get it Now<\/a>$/;"	function	line:20
+section	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^		<section id="benefits">$/;"	function	line:23
+div	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^			<div class="container">$/;"	function	line:24
+h	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^				<h3>Benefits<\/h3>$/;"	function	line:25
+p	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^				<p>The perfect personal assistant. Relaxr does your job for you so you can enjoy life as it is meant to be.<\/p>$/;"	function	line:26
+ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^				<ul>$/;"	function	line:27
+li	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^					<li>Schedule meetings for you<\/li>$/;"	function	line:28
+li	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^					<li>Excel automation to complete your work for you<\/li>$/;"	function	line:29
+li	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^					<li>Responds to emails on your behalf<\/li>$/;"	function	line:30
+li	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^					<li>Does all your work for you with our revolutionary AI technology<\/li>$/;"	function	line:31
+section	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^		<section id="testimonial">$/;"	function	line:35
+div	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^			<div class="container">$/;"	function	line:36
+blockquote	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^				<blockquote>&ldquo;Relaxr changed my life. I&rsquo;ve been able to travel the world, spend limited time working and my boss keeps thanking me for crushing work.&rdquo;$/;"	function	line:37
+span	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^				<span>- Amanda, Intuit<\/span><\/blockquote>$/;"	function	line:38
+aside	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^		<aside>$/;"	function	line:41
+a	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^			<a class="button blue" href="#">Sign Up Now!<\/a>$/;"	function	line:42
+footer	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^		<footer>$/;"	function	line:44
+h	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^			<h4 class="logo">Relaxr<\/h4>$/;"	function	line:45
+ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^			<ul>$/;"	function	line:47
+li	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^				<li><a href="#"><img src="images\/twitter.png" alt="Twitter logo"><\/a><\/li>$/;"	function	line:48
+li	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^				<li><a href="#"><img src="images\/facebook.png" alt="Facebook logo"><\/a><\/li>$/;"	function	line:49
+p	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/solution_code/index.html	/^			<p class="copyright">Copyright 2015. Relaxr.<\/p>$/;"	function	line:52
+article	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^article,$/;"	function	line:11
+aside	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^aside,$/;"	function	line:12
+details	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^details,$/;"	function	line:13
+figcaption	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^figcaption,$/;"	function	line:14
+figure	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^figure,$/;"	function	line:15
+footer	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^footer,$/;"	function	line:16
+header	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^header,$/;"	function	line:17
+hgroup	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^hgroup,$/;"	function	line:18
+nav	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^nav,$/;"	function	line:19
+section	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^section,$/;"	function	line:20
+summary	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^summary {$/;"	function	line:21
+audio	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^audio,$/;"	function	line:29
+canvas	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^canvas,$/;"	function	line:30
+video	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^video {$/;"	function	line:31
+audio:not([controls])	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^audio:not([controls]) {$/;"	function	line:42
+[hidden]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^[hidden] {$/;"	function	line:52
+html	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^html {$/;"	function	line:67
+html	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^html,$/;"	function	line:78
+button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^button,$/;"	function	line:79
+input	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input,$/;"	function	line:80
+select	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^select,$/;"	function	line:81
+textarea	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^textarea {$/;"	function	line:82
+body	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^body {$/;"	function	line:90
+a:focus	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^a:focus {$/;"	function	line:102
+a:active	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^a:active,$/;"	function	line:111
+a:hover	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^a:hover {$/;"	function	line:112
+h1	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^h1 {$/;"	function	line:125
+h2	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^h2 {$/;"	function	line:130
+h3	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^h3 {$/;"	function	line:135
+h4	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^h4 {$/;"	function	line:140
+h5	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^h5 {$/;"	function	line:145
+h6	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^h6 {$/;"	function	line:150
+abbr[title]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^abbr[title] {$/;"	function	line:159
+b	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^b,$/;"	function	line:167
+strong	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^strong {$/;"	function	line:168
+blockquote	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^blockquote {$/;"	function	line:172
+dfn	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^dfn {$/;"	function	line:180
+mark	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^mark {$/;"	function	line:188
+p	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^p,$/;"	function	line:197
+pre	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^pre {$/;"	function	line:198
+code	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^code,$/;"	function	line:207
+kbd	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^kbd,$/;"	function	line:208
+pre	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^pre,$/;"	function	line:209
+samp	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^samp {$/;"	function	line:210
+pre	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^pre {$/;"	function	line:220
+q	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^q {$/;"	function	line:230
+q:before	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^q:before,$/;"	function	line:238
+q:after	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^q:after {$/;"	function	line:239
+small	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^small {$/;"	function	line:244
+sub	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^sub,$/;"	function	line:253
+sup	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^sup {$/;"	function	line:254
+sup	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^sup {$/;"	function	line:261
+sub	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^sub {$/;"	function	line:265
+dl	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^dl,$/;"	function	line:277
+menu	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^menu,$/;"	function	line:278
+ol	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^ol,$/;"	function	line:279
+ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^ul {$/;"	function	line:280
+dd	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^dd {$/;"	function	line:284
+menu	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^menu,$/;"	function	line:292
+ol	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^ol,$/;"	function	line:293
+ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^ul {$/;"	function	line:294
+nav ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^nav ul,$/;"	function	line:302
+nav ol	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^nav ol {$/;"	function	line:303
+img	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^img {$/;"	function	line:318
+svg:not(:root)	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^svg:not(:root) {$/;"	function	line:327
+figure	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^figure {$/;"	function	line:339
+form	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^form {$/;"	function	line:351
+fieldset	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^fieldset {$/;"	function	line:359
+legend	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^legend {$/;"	function	line:371
+button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^button,$/;"	function	line:384
+input	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input,$/;"	function	line:385
+select	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^select,$/;"	function	line:386
+textarea	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^textarea {$/;"	function	line:387
+button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^button,$/;"	function	line:399
+input	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input {$/;"	function	line:400
+button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^button,$/;"	function	line:414
+input[type="reset"]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input[type="reset"],$/;"	function	line:416
+input[type="submit"]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input[type="submit"] {$/;"	function	line:417
+button[disabled]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^button[disabled],$/;"	function	line:427
+input[disabled]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input[disabled] {$/;"	function	line:428
+input[type="checkbox"]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input[type="checkbox"],$/;"	function	line:439
+input[type="radio"]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input[type="radio"] {$/;"	function	line:440
+input[type="search"]	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input[type="search"] {$/;"	function	line:453
+input[type="search"]::-webkit-search-cancel-button	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input[type="search"]::-webkit-search-cancel-button,$/;"	function	line:464
+input[type="search"]::-webkit-search-decoration	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input[type="search"]::-webkit-search-decoration {$/;"	function	line:465
+button::-moz-focus-inner	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^button::-moz-focus-inner,$/;"	function	line:473
+input::-moz-focus-inner	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^input::-moz-focus-inner {$/;"	function	line:474
+textarea	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^textarea {$/;"	function	line:484
+table	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/normalize.css	/^table {$/;"	function	line:497
+html, body, div, span, applet, object, iframe	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^html, body, div, span, applet, object, iframe,$/;"	function	line:6
+h1, h2, h3, h4, h5, h6, p, blockquote, pre	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	function	line:7
+a, abbr, acronym, address, big, cite, code	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^a, abbr, acronym, address, big, cite, code,$/;"	function	line:8
+del, dfn, em, img, ins, kbd, q, s, samp	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	function	line:9
+small, strike, strong, sub, sup, tt, var	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^small, strike, strong, sub, sup, tt, var,$/;"	function	line:10
+b, u, i, center	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^b, u, i, center,$/;"	function	line:11
+dl, dt, dd, ol, ul, li	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^dl, dt, dd, ol, ul, li,$/;"	function	line:12
+fieldset, form, label, legend	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^fieldset, form, label, legend,$/;"	function	line:13
+table, caption, tbody, tfoot, thead, tr, th, td	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	function	line:14
+article, aside, canvas, details, embed	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^article, aside, canvas, details, embed, $/;"	function	line:15
+figure, figcaption, footer, header, hgroup	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^figure, figcaption, footer, header, hgroup, $/;"	function	line:16
+menu, nav, output, ruby, section, summary	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^menu, nav, output, ruby, section, summary,$/;"	function	line:17
+time, mark, audio, video	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^time, mark, audio, video {$/;"	function	line:18
+article, aside, details, figcaption, figure	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^article, aside, details, figcaption, figure, $/;"	function	line:27
+footer, header, hgroup, menu, nav, section	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^footer, header, hgroup, menu, nav, section {$/;"	function	line:28
+body	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^body {$/;"	function	line:31
+ol, ul	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^ol, ul {$/;"	function	line:34
+blockquote, q	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^blockquote, q {$/;"	function	line:37
+blockquote:before, blockquote:after	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^blockquote:before, blockquote:after,$/;"	function	line:40
+q:before, q:after	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^q:before, q:after {$/;"	function	line:41
+table	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/reset.css	/^table {$/;"	function	line:45
+*	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/style.css	/^* {$/;"	function	line:14
+.clearfix:after	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/style.css	/^.clearfix:after {$/;"	function	line:21
+.clear	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/style.css	/^.clear {$/;"	function	line:30
+.alignright	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/style.css	/^.alignright {$/;"	function	line:34
+.alignleft	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/style.css	/^.alignleft {$/;"	function	line:39
+body	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/style.css	/^body {$/;"	function	line:48
+#container	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/style.css	/^#container {$/;"	function	line:63
+header	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/style.css	/^header {$/;"	function	line:70
+footer	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/css/style.css	/^footer {$/;"	function	line:74
+html	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^	<head>$/;"	function	line:3
+meta	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^    	<meta charset="utf-8">$/;"	function	line:4
+meta	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^    	<meta name="description" content="Your description goes here">$/;"	function	line:5
+meta	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^    	<meta name="keywords" content="one, two, three">$/;"	function	line:6
+title	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^		<title>Blank Template<\/title>$/;"	function	line:8
+link	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^		<link rel="stylesheet" href="css\/reset.css">$/;"	function	line:11
+link	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^		<link rel="stylesheet" href="css\/style.css">$/;"	function	line:12
+body	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^	<body>$/;"	function	line:15
+div	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^		<div id="container">$/;"	function	line:16
+header	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^			<header>$/;"	function	line:17
+h	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^				<h1>Blank Template<\/h1>$/;"	function	line:18
+h	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^				<h2>Just another blank template<\/h2>$/;"	function	line:19
+footer	/Users/tombroomfield/GA/course_materials/Week_02_Styling/Assignment/starter_code/index.html	/^			<footer>$/;"	function	line:21
