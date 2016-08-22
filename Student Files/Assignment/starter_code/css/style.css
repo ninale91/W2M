@@ -79,6 +79,17 @@ footer {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+h1.logo{
+  font-family: Open Sans;
+  font-size: 24px;
+  font-weight:900;
+  color: white;
+}
 
-
-
+h2{
+  font-family: Open Sans;
+  font-size: 24px;
+  font-weight:600;
+  color: white;
+  text-align: center;
+}
